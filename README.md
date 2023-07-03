@@ -4,9 +4,6 @@
 ##### And I'm learning Unity ML-Agents for autonomous driving (AI Car) 🌱
 <br>
 
-![SinYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachpaul7&show_icons=true&theme=radical)
-
-
 #### *My Stack* 📚
 
 ##### Platforms & Languages
@@ -26,6 +23,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 <br>
+
+![SinYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachpaul7&show_icons=true&theme=radical)
 
 #### *Mail & Blog* 📫
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zachpaul707@gmail.com)](mailto:zachpaul707@gmail.com)
