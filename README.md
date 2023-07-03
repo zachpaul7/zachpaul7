@@ -24,7 +24,7 @@
 </p>
 <br>
 
-![SinYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachpaul7&show_icons=true&theme=radical&hide=stars,issues,contribs)
+![SinYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachpaul7&show_icons=true&theme=radical&hide=issues,contribs)
 
 #### *Mail & Blog* 📫
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zachpaul707@gmail.com)](mailto:zachpaul707@gmail.com)
