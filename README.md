@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ### Hi there 👋
 
-I'm <h1>Game Developer</h1> using Unity.🎮
+I'm <a >Game Developer</a> using Unity.🎮
 
 <!--
 Here are some ideas to get you started:
