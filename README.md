@@ -23,4 +23,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zachpaul7)](https://solved.ac/zachpaul7/)
+
+#### :mailbox_with_mail: Contacts
+<p align="horizontal">
+  <a href="mailto:zachpaul707@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zachpaul707@gmail.com"/>
+</p>
