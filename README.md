@@ -24,7 +24,8 @@
 </p>
 
 
-#### :mailbox_with_mail: Contacts
+#### mailbox_with_mail: Contacts
+
 <p align="horizontal">
   <a href="mailto:zachpaul707@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zachpaul707@gmail.com"/>
 </p>
