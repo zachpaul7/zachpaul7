@@ -1,6 +1,7 @@
-### Hi there, I'm Sin Yeong 👋
+### 👋 Hi there, I'm Sin Yeong
 
-Currently, I'm making a game using Unity and c#.🎮
+Currently, I'm making a game using Unity and C#. 🎮
+
 
 
 
