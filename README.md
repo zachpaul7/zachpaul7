@@ -21,6 +21,6 @@
 <p align="horizontal">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <a href="mailto:zachpaul707@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zachpaul707@gmail.com"/>
+  <a href="mailto:zachpaul707@gmail.com>
 </p>
 
