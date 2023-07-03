@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+### Hi there, I'm Sin Yeong 👋
 
-### Hi there 👋
+Currently, I'm making a game using Unity and c#.🎮
 
-I'm <a >Game Developer</a> using Unity.🎮
+
 
 <!--
 Here are some ideas to get you started:
