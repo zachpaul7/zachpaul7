@@ -5,7 +5,7 @@
 ##### And I'm learning Unity ML-Agents for autonomous driving (AI Car) 🌱
 <br>
 
-#### **My Stack** 📚
+#### My Stack 📚
 
 ##### Platforms & Languages
 <p align="horizontal">
