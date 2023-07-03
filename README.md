@@ -4,9 +4,10 @@
 ##### And I'm learning Unity ML-Agents for autonomous driving (AI Car) 🌱
 <br>
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+![SinYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachpaul7&show_icons=true&theme=radical)
 
 <br>
+
 #### *My Stack* 📚
 
 ##### Platforms & Languages
