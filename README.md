@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sin Yeong's Github&fontSize=30" />
-
 ### *Hi there, I'm Sin Yeong* 👋
 
 ##### Currently, I'm making a game using Unity and C#. 🎮
