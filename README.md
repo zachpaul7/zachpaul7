@@ -5,7 +5,7 @@
 ##### And I'm learning Unity ML-Agents for autonomous driving (AI Car) 🌱
 <br>
 
-#### My Stack 📚
+#### <b>My Stack 📚</b>
 
 ##### Platforms & Languages
 <p align="horizontal">
@@ -14,5 +14,7 @@
 </p>
 
 ##### Tools
+<p align="horizontal">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
+</p>
 
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
