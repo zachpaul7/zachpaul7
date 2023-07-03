@@ -24,5 +24,5 @@
 </p>
 <br>
 
-#### *Mail & Blog* ✉️📫
+#### *Mail & Blog* 📫
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zachpaul707@gmail.com)](mailto:zachpaul707@gmail.com)
